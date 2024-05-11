@@ -1,9 +1,4 @@
-# bututu
-Budget webapp for learning vue
-Adding something here
+# Bututu
 
-something here is different
+A small vue application that budget your money based on envelopes
 
-something new here too
-
-something here
