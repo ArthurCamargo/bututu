@@ -4,8 +4,10 @@
     <strong>Current route path:</strong> {{ $route.fullPath }}
   </p>
   <nav>
-    <RouterLink to="/home">Go to Home </RouterLink>
-    <RouterLink to="/about">Go to About</RouterLink>
+    <RouterLink to="/accounts">Go to accounts</RouterLink>
+    <RouterLink to="/budgets">Go to budgets</RouterLink>
+    <RouterLink to="/transactions">Go to transcations</RouterLink>
+    <RouterLink to="/accounts/create">Go to Accounts create</RouterLink>
   </nav>
   <main>
     <RouterView />

@@ -2,7 +2,11 @@ import * as components from './components'
 
 export default [
     { path:'/accounts',
-        name: 'account-list',
+        name: 'accounts-list',
         component: components.AccountsListView
+    },
+    { path:'/accounts/create',
+        name: 'account-create',
+        component: components.CreateEditAccount
     }
 ]
