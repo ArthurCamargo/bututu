@@ -2,7 +2,7 @@ import * as components from './components'
 
 export default [
     { path:'/transactions',
-        name: 'transactions-list',
+        name: 'transactionsListView',
         component: components.TransactionsListView
     }
 ]

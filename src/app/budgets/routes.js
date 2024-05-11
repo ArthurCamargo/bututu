@@ -2,7 +2,7 @@ import * as components from './components'
 
 export default [
     { path:'/budgets',
-        name: 'budgets-list',
+        name: 'budgetsListView',
         component: components.BudgetsListView
     }
 ]
